@@ -19,8 +19,6 @@ I'm a **First-year BTech CSE student** passionate about **coding**, **web develo
 
 ---
 
----
-
 ## 🤖 Fun Fact:
 - I love solving coding challenges and learning new technologies.
 - I'm always open to new collaborations and challenges!
